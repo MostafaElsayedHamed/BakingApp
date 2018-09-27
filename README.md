@@ -12,10 +12,10 @@ In this project:
 * Leverage a third-party library in your app.
 * Use Fragments to create a responsive design that works on phones and tablets.
 
-<img src="screenshot/t1.png" width="300" height="600" /> <img src="screenshot/tablet1.png" width="700" height="600" />
-<img src="screenshot/t2.png" width="300" height="600" /> <img src="screenshot/tablet2.png" width="700" height="600" />
-<img src="screenshot/t3.png" width="300" height="600" /> <img src="screenshot/tablet3.png" width="700" height="600" />
-<img src="screenshot/t4.png" width="300" height="600" /> <img src="screenshot/tablet4.png" width="700" height="600" />
+<img src="screenshot/t1.png" width="300" height="500" /> <img src="screenshot/tablet1.png" width="700" height="500" />
+<img src="screenshot/t2.png" width="300" height="500" /> <img src="screenshot/tablet2.png" width="700" height="500" />
+<img src="screenshot/t3.png" width="300" height="500" /> <img src="screenshot/tablet3.png" width="700" height="500" />
+<img src="screenshot/t4.png" width="300" height="500" /> <img src="screenshot/tablet4.png" width="700" height="500" />
 
 
 ## Built With
